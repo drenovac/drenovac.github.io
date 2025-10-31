@@ -1,5 +1,7 @@
-# Index updated from "langs/index.md"
+# Lang Resources
 
 ## Sub-Heading
 
-Hello World!
+- [js](javascript.md)
+- [go](golang.md)
+- [rust](rust.md)

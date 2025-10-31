@@ -1,1 +1,3 @@
-# Index updated on server side 
+# Rails Resources
+
+## Heading 2
