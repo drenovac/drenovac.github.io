@@ -1,3 +1,9 @@
 # Rails Resources
 
-## Heading 2
+## Developer Resources
+
+- [a](#)
+
+## Youtube links
+
+- [a](#)

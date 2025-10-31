@@ -1,1 +1,3 @@
-# Golang
+# Golang Resources
+
+# Documentation (incl books)

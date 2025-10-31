@@ -1,3 +1,5 @@
-# This is index.md
+# Desktop Links
 
-## Is it the master?
+[Languages links](./langs/index.md)
+[Rails development links](./rails/index.md)
+[Snippets of everything](./misc/index.md)
