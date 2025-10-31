@@ -6,5 +6,5 @@
 |[Snippets of everything](./misc/index.md)||
 
 <footer>
-Hello from my footer
+<p>Version 0.4</p>Hello from my footer
 </footer>
